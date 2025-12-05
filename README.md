@@ -8,7 +8,7 @@ A collection of solutions to Competitive Programming problems that I solved **af
 | :--- | :--- | :--- |
 | **Beecrowd** | `almamun69` | [Visit Profile](https://judge.beecrowd.com/en/profile/1194289) |
 | **Codeforces** | `252-15-949` | [Visit Profile](https://codeforces.com/profile/252-15-949) |
-| **Codeforces** | `almamun69` | [Visit Profile](https://toph.co/u/almamun69) |
+| **Toph** | `almamun69` | [Visit Profile](https://toph.co/u/almamun69) |
 
 ## 📂 Repository Structure
 
